@@ -1,6 +1,6 @@
 # Swift Apprentice
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/JustinInCoding/Swift-Apprentice/blob/main/README.md)
-[![zh-cn](https://img.shields.io/badge/lang-zh--cn-blue.svg)](https://github.com/JustinInCoding/Swift-Apprentice/blob/main/README.zh-cn.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/JustinInCoding/swift-apprentice-fundamentals/blob/main/README.md)
+[![zh-cn](https://img.shields.io/badge/lang-zh--cn-blue.svg)](https://github.com/JustinInCoding/swift-apprentice-fundamentals/blob/main/README.zh-cn.md)
 
 > This project is for me to learn from kodeco's iOS book Swift Apprentice. Here I try to grasp the knowledge of Swift Foundamental by recording the steps of learning the gramma.
 
